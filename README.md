@@ -4,7 +4,7 @@
 Informação dos dados:
 
 Car_ID: A unique identifier for each car listing.<br>
-Brand: The brand or manufacturer of the car (e.g., Toyota, Honda, Ford, etc.).<br>
+c#Brand: The brand or manufacturer of the car (e.g., Toyota, Honda, Ford, etc.).<br>
 Model: The model of the car (e.g., Camry, Civic, Mustang, etc.).<br>
 Year: The manufacturing year of the car.<br>
 Kilometers_Driven: The total kilometers driven by the car.<br>

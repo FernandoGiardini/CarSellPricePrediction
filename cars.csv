@@ -1,4 +1,4 @@
-Car_ID,Brand,Model,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Price
+Car_ID,c#Brand,Model,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Price
 1,Toyota,Corolla,2018,50000,Petrol,Manual,First,15,1498,108,5,800000
 2,Honda,Civic,2019,40000,Petrol,Automatic,Second,17,1597,140,5,1000000
 3,Ford,Mustang,2017,20000,Petrol,Automatic,First,10,4951,395,4,2500000
